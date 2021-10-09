@@ -16,9 +16,9 @@ import LearningResource from './LearningResource.vue';
 export default {
   inject: ['resources'],
   components: {
-    LearningResource
-  }
-}
+    LearningResource,
+  },
+};
 </script>
 
 <style scoped>
